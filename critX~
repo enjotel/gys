@@ -1,0 +1,625 @@
+
+\section{Kritische Edition}
+\subsection{\textit{dehasiddhi}-Abschnitt GYŚ 1-32}
+
+\begingroup
+\beginnumbering
+\autopar
+
+%\numberlinefalse
+\linenumberstyle{alph}
+\stanza
+namo ādināthāya ||&
+\edtext{\edtext{īśvara}{\Bfootnote{em. : \textit{iśvara} Ms}} uvāca ||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 84: īśvara uvāca |}} \&
+
+\numberlinetrue
+\linenumberstyle{arabic}
+\stanza
+\setline{1}\linenumannotation{a}\edtext{\edtext{candraḥ}{\Bfootnote{em. : \textit{candra} Ms}} sūryas tathā \edtext{vahniḥ}{\Bfootnote{em. : \textit{vahni} Ms}} \linenumannotation{b}śarīre daśa nāḍikāḥ |&
+\setline{1}\linenumannotation{c}\edtext{pañca sthā}{\Bfootnote{\textit{dehasyā} Pts}} \edtext{vāyavaḥ}{\Bfootnote{em. : \textit{vāyava} Ms}} pañca \linenumannotation{d}mano bindus tathaiva ca ||1||}
+{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 84: candraḥ sūryas tathā vahniḥ śarīre daśa nāḍikāḥ | dehasyā vāyavaḥ pañca mano bindus tathaiva ca |}}\& 
+
+
+\stanza 
+\setline{2}\linenumannotation{a}\edtext{ṣaṭ cakraṃ merudaṇḍañ ca \linenumannotation{b}oḍḍiyānaṃ \edtext{tathaiva}{\Bfootnote{em. : \textit{tatheva} Ms}} ca |&
+\setline{2}\linenumannotation{c}\edtext{jālandharaḥ}{\Bfootnote{em. : \textit{jālaṃdhara} Ms, Pts}} \edtext{kāmarūpaḥ}{\Bfootnote{em. : \textit{kāmarūpa} Ms}} \linenumannotation{d}\edtext{pūrṇagiriḥ}{\Bfootnote{em. : \textit{pūrṇagiri} Ms, \textit{pūrṇagrīva} Pts}} \edtext{śrīhaṭṭakaḥ}{\Bfootnote{em. : \textit{śrīhattakaḥ} Ms}} ||2||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 84-85: ṣaṭ cakraṃ merudaṇḍañ ca uḍḍīyānaṃ tathaiva ca | jālandhara kāmarūpaḥ pūrṇagrīva śrīhaṭṭakaḥ |}}\& 
+
+\stanza
+\setline{3}\linenumannotation{a}\edtext{\edtext{prakṛtiḥ}{\Bfootnote{em. : \textit{prakīrtiḥ} Ms}} \edtext{puruṣo dehe}{\Bfootnote{m.c. : \textit{kṣetrapuruṣo} Ms}} \linenumannotation{b}brahmā \edtext{viṣṇuḥ}{\Bfootnote{em. : \textit{viṣṇu} Ms, Pts}} śivas tathā |&
+\setline{3}\linenumannotation{c}\edtext{nādāś caiva}{\Bfootnote{em. BIRCH: \textit{nadā nadyaḥ} Ms, \textit{nadāś caiva} Pts}} samudrāś ca \linenumannotation{d}bhuvanāni caturdaśa ||3||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 85: prakṛtiḥ puruṣo dehe brahmā viṣṇu śivas tathā | nadāś caiva samudrāś ca bhuvanāni caturdaśa |}}\&
+%caturddaśa in Ms
+%nadāś könnte auch nādāś sein: Klänge!
+ 
+\stanza
+\setline{4}\linenumannotation{a}\edtext{brahmāṇḍe \edtext{ye}{\Bfootnote{em. : \textit{yai} Ms}} \edtext{guṇāḥ}{\Bfootnote{\textit{guṇā} Pts}} santi \linenumannotation{b}te tiṣṭhanti kalevare |&
+\setline{4}\linenumannotation{c}\edtext{teṣāṃ}{\Bfootnote{\textit{teṣā} Pts}} \edtext{saṃkṣepataḥ}{\Bfootnote{\textit{sakṣepata} Pts}} \edtext{sādhyaṃ}{\Bfootnote{\textit{sarva} Pts}} \linenumannotation{d}\edtext{pravakṣyāmi}{\Bfootnote{em. : \textit{pravadanti} Ms}} \edtext{śucismite}{\Bfootnote{em. : \textit{śucismṛte} Ms}} ||4||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 85: brahmāṇḍe ye guṇā santi te tiṣṭhanti kalevare | teṣā sakṣepata sarva pravakṣyāmi śucismite |}} \&
+
+%saṃti Ms, tiṣṭaṃti Ms
+
+\stanza
+\setline{5}\linenumannotation{a}\edtext{\edtext{meruśṛṅge}{\Bfootnote{\textit{merupṛṣṭhe} Pts}} \edtext{sthitaś}{\Bfootnote{em. : \textit{sthite} Ms}} candro \linenumannotation{b}\edtext{dviraṣṭakalayā yutaḥ}{\Bfootnote{\textit{dviraṣṭakalayānvita} Pts}} |& 
+\setline{5}\linenumannotation{c}\edtext{aharniśaṃ}{\Bfootnote{\textit{aharniśa} Pts}} \edtext{tuṣārābhāṃ}{\Bfootnote{em. : \textit{tuṣārābhaṃ} Ms, \textit{tuṣārabhā} Pts}} \linenumannotation{d}\edtext{sudhāṃ}{\Bfootnote{em. : \textit{śudhāṃ} Ms, dhārā Pts}} varṣaty \edtext{adhomukhaḥ}{\Bfootnote{em. : \textit{adhomukhaṃ} Ms}} ||5||}{\lemma{\textbf{Ce}}\Afootnote{vgl. As 3.1\textsuperscript{a-d} S. 4: meruśṛṅge sthitaś candro dviraṣṭakalayā yutaḥ | ahar niśaṃ tuṣārābhāṃ sudhāṃ varsaty adhomukhaḥ ||1||; und \textbf{Ci} ] vgl. Pts S. 85: merupṛṣṭhe sthitaś candro dviraṣṭakalayānvita | aharniśa tuṣārābhā dhārā varṣaty adhomukhaḥ |; und \textbf{Ri} ] vgl. Śs 2.6 S.27: meruśṛṅge sudhāraśmir dviraṣṭakalayā yutaḥ |
+vartate aharniśaṃ so'pi sudhāṃ varṣaty adhomukhaḥ || 6 ||}} \& 
+
+%aharnniśaṃ Ms
+
+\stanza
+\setline{6}\linenumannotation{a}\edtext{\edtext{sudhāṃśur}{\Bfootnote{em. : \textit{śudhāṃsur} Ms}} \edtext{dvividhasrāvī}{\Bfootnote{em. : \textit{dvividhaśrāvī} Ms, \textit{vividhasrāvī} Pts}} \linenumannotation{b}\edtext{pīyūṣaṃ}{\Bfootnote{em. : \textit{pīyūṣa} Pts, Ms}{\Cfootnote{BIRCH vgl. Dhbu 79\textsuperscript{a-b}: na pīyūṣaṃ patty agnau na ca vāyuḥ pradhāvati | Bezeugt Verwendung von \textit{pīyūṣam} im Neutrum.}}} \edtext{bindum}{\Bfootnote{\textit{bindur} Pts}} eva ca |}{\lemma{\textbf{Cie}}\Afootnote{vgl. Pts S. 85: sudhāṃśur vividhasrāvī pīyūṣabindur eva ca |}\lemma{\textbf{Re}}\Afootnote{vgl. As 7.7\textsuperscript{a-d} S.9: sa bindur dvividho jñeyaḥ pauruṣo vanitābhavaḥ | bījaṃ ca pauruṣaṃ proktaṃ rajaś ca strīsamudbhavam ||8||}} &
+\setline{6}\linenumannotation{c}taralas tu \edtext{sudhā}{\Bfootnote{em. : \textit{śudhā} Ms}} jñeyā \linenumannotation{d}ghano bindur udāhṛtaḥ ||6||\&
+
+%biṃdur Ms
+
+\stanza
+\setline{7}\linenumannotation{a}\edtext{ekabinduḥ}{\Bfootnote{em. : \textit{ekabiṃdu} Ms}} sadā brahmā \linenumannotation{b}utpattisthitikārakaḥ |& 
+\setline{7}\linenumannotation{c}\edtext{binduvargasya sādhyena \linenumannotation{d}dehasiddhiḥ prajāyate ||7||}{\lemma{\textbf{Cie}}\Afootnote{vgl. Pts S.85: binduratnasya madhyena dehasiddhiḥ prajāyate |}} \&
+
+
+
+\stanza
+\setline{8}\linenumannotation{a}\edtext{javākusumasaṃkāśo \linenumannotation{b}\edtext{vastideśe}{\Bfootnote{em. : \textit{vasthideśe} Ms}} \edtext{suśobhane}{\Bfootnote{em. : \textit{susobhane} Ms}} |&
+\setline{8}\linenumannotation{c}\edtext{madhyamāmūlaṃ}{\Bfootnote{em. : \textit{madhyamāmūla} Ms, \textit{śaṅkhinīmūla} Pts}} saṃvyāpya \linenumannotation{d}\edtext{sūryas}{\Bfootnote{em. : \textit{sūryan} Ms}} tiṣṭhati dehināṃ ||8||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 85: javākusumasaṅkāśo vastideśe suśobhane | śaṅkhinīmūla saṃvyāpya sūryas tiṣṭhati dehinām |; und \textbf{Re} ] vgl. As 4.1\textsuperscript{a-b} S. 5: madhyamāmūlasaṃsthāne tiṣṭhati sūryamaṇḍalaḥ |}}\&
+
+%JB:Saṃvyāpya seems wrong. The sūrya is supposed to be situated at the base of the central channel. C.f. Amṛtasiddhi - madhyamāmūlasaṃsthāne tiṣṭhati sūryamaṇḍalaḥ || 4.1ab
+
+
+\stanza
+\setline{9}\linenumannotation{a}\edtext{\edtext{kalādvādaśabhiḥ}{\Bfootnote{\textit{dvādaśakalayā} Pts}} sūryo \linenumannotation{b}vahnir \edtext{daśakalāyutaḥ}{\Bfootnote{\textit{daśakalātmakaḥ} Pts}} | &
+\setline{9}\linenumannotation{c}\edtext{sarveṣāṃ}{\Bfootnote{\textit{sarveṣa} Pts}} dehināṃ \edtext{tiṣṭhed}{\Bfootnote{em. : \textit{tiṣṭhet} Ms, \textit{dehe} Pts}} \linenumannotation{d}\edtext{annādiḥ pācakaḥ sadā}{\Bfootnote{\textit{sadā annādipācaka} Pts}} ||9||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 85: dvādaśakalayā sūryo vahnir daśakalātmakaḥ | sarveṣā dehināṃ dehe sadā annādipācaka |; und \textbf{Re} ] vgl. As 4.1\textsuperscript{c-d} S.5: kalādvādaśasaṃpūrṇo dīpyamānaḥ svaraśmibhiḥ ||1||; und \textbf{Re} ] vgl. As 5.1\textsuperscript{a-d} S.6: kalābhir daśabhir yuktaḥ sūryamaṇḍalamadhyasthaḥ | vasati vastideśe ca vaḥnir annavipācakaḥ ||1||; und \textbf{Ri} ] vgl. Śs 2.33\textsuperscript{a-d} S.33: sūryamaṇḍalamadhyasthaḥ kalādvādaśasaṃyutaḥ | vastideśe jvaladvahnirvartate cānnapācakaḥ ||33||; und \textbf{Ri} ] vgl. Śs 2.10\textsuperscript{a-b} S.28: merumūle sthitaḥ sūryaḥ kalādvādaśasaṃyutaḥ |}} \&
+
+%Seitenzahl Śs nachtragen! 
+
+%Pts:(line 5148 ): dvādaśakalayā sūryo vahnir daśakalātmakaḥ |
+%(line 5149 ): 
+%(line 5150 ): sarveṣā dehināṃ dehe sadā annādipācaka |
+
+%Ms:kalādvādaśabhiḥ sūryo, vahnir daśakalāyutaḥ |
+%sarvveṣāṃ dehināṃ tiṣthet* annādiḥ pācakaḥ sadā ||9||
+
+%As4.1cd, S.5: kalādvādaśasaṃpūrṇo dīpyamānaḥ svaraśmibhiḥ ||||
+
+%As5.1a-d, S.6: kalābhir daśabhir yuktaḥ sūryamaṇḍalamadhyasthaḥ |
+ %         vasati vastideśe ca vaḥnir annavipācakaḥ ||1|| 
+
+%sūryamaṇḍalamadhyasthaḥ kalādvādaśasaṃyutaḥ
+%vastideśe jvaladvahnirvartate cānnapācakaḥ 2.33
+
+%merumūle sthitaḥ sūryaḥ kalādvādaśasaṃyutaḥ
+%dakṣiṇe pathi raśmibhir vahaty ūrdhvaṃ prajāpatiḥ 2.10
+
+\stanza
+\setline{10}\linenumannotation{a}\edtext{tuṣāraṃ varṣate candro \linenumannotation{b}raviḥ \edtext{śuṣyati}{\Bfootnote{em. : \textit{śudhyati} Ms}} sarvadā |&
+\setline{10}\linenumannotation{c}\edtext{tatsaṃyoge}{\Bfootnote{\textit{sayogena} Pts}} \edtext{sthitaḥ}{\Bfootnote{\textit{syita} Pts}} \edtext{prāṇo}{\Bfootnote{em. : \textit{prāṇaḥ} Ms}} \linenumannotation{d}\edtext{viyogān}{\Bfootnote{\textit{viyogāt} Ms, \textit{viyoge} Pts}} \edtext{maraṇaṃ}{\Bfootnote{\textit{maraṇa} Pts}} bhavet ||10||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S. 85: tuṣāra varṣate candro raviḥ śuṣyati sarvadā | sayogena syita prāṇo viyoge maraṇa bhavet |}}\&
+
+
+%Ms: tuṣāraṃ varṣate candro raviḥ sudhyati sarvvadā | 
+%tatsaṃyoge sthitaḥ prāṇaḥ viyogāt maraṇaṃ bhavet* ||10||
+
+%Pts: tuṣāra varṣate candro raviḥ śuṣyati sarvadā |
+%sayogena syita prāṇo viyoge maraṇa bhavet |
+
+\stanza
+\setline{11}\linenumannotation{a}\edtext{\edtext{ūrdhvaṃ}{\Bfootnote{\textit{ūrddhva} Pts}} \edtext{yāti raver}{\Bfootnote{\textit{yāti rave} Ms, \textit{tvavayave} Pts}} raśmir \linenumannotation{b}\edtext{adhaś}{\Bfootnote{em. : \textit{adha} Ms}} candrāmṛtaṃ sadā |&
+\setline{11}\linenumannotation{c}\edtext{abhyāsāt}{\Bfootnote{\textit{abhyāsa} Pts}} \edtext{kāmarūpe}{\Bfootnote{\textit{kāmarūpasya} Pts}} ca \linenumannotation{d}\edtext{yogaṃ}{\Bfootnote{\textit{yoga} Pts}} yogavido \edtext{viduḥ}{\Bfootnote{\textit{vidu} Pts}} ||11||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S.85: ūrddhva tvavayave raśmir adhaścandrāmṛta sadā | abhyāsa kāmarūpasya yoga yogavido vidu |}}\&
+
+%Pts:
+%(line 5156 ): ūrddhva tvavayave raśmir adhaścandrāmṛta sadā |
+%(line 5157 ): 
+%(line 5158 ): abhyāsa kāmarūpasya yoga yogavido vidu |
+%(line 5159 ): 
+%Ms:
+%ūrddhvaṃ yāti raver asmi,r adha caṃdrāmṛtaṃ sadā |
+%abhyāsāt kāmarūpe ca, yogaṃ yoga ◎ vido viduḥ ||11||
+
+\stanza
+\setline{12}\linenumannotation{a}ayaṃ yogasamudraṃ ca \linenumannotation{b}\edtext{vasataḥ}{\Bfootnote{em. BIRCH : \textit{vasantaḥ} Ms}} parikīrtitaḥ |&
+\setline{12}\linenumannotation{c}\edtext{\edtext{arogī}{\Bfootnote{\textit{sayogī} Pts}} ca \edtext{bhaved}{\Bfootnote{em. : \textit{bhave} Ms}} \edtext{devi}{\Bfootnote{\textit{yogī} Pts}} \linenumannotation{d}prāṇāpānaikayogataḥ ||12||}{\lemma{\textbf{Cie}}\Afootnote{vgl. Pts S. 85: sayogī ca bhaved yogī prāṇāpānaikayogataḥ |}}\& 
+
+%Pts:
+%(line 5160 ): saṃyogī ca bhaved yogī prāṇāpānaikayogataḥ |
+%(line 5161 ): 
+%Ms
+%ayaṃ yogasamudraṃ ca, vasantaḥ parikīrttitaḥ | 
+%arogī ca bhave devī, prāṇāpānaikayogataḥ ||12||
+
+
+\stanza
+\setline{13}\linenumannotation{a}\edtext{prāṇaś candramayo \edtext{jñeyo}{\Bfootnote{em. : \textit{jñāyo} Ms, \textit{prokto} Pts}} \linenumannotation{b}'pānaḥ \edtext{sūryamayas}{\Bfootnote{em. : \textit{sūryamayaṃ} Ms As}} tathā |&
+\setline{13}\linenumannotation{c}\edtext{anayoḥ}{\Bfootnote{\textit{anayo} Pts}} \edtext{saṃgamaṃ}{\Bfootnote{\textit{saṅgamo} Pts, \textit{saṃgamaḥ} As}} \edtext{sādhyaṃ}{\Bfootnote{\textit{sādhyaḥ} As, \textit{madhye} Pts}} \linenumannotation{d}\edtext{rajobījasya}{\Bfootnote{\textit{rajo rogasya} Pts}} sādhanaṃ ||13||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S.85: prāṇaścandramayaḥ prokto'pānaḥ sūryamayastathā | anayo saṅgamo madhye rajo rogasya sādhanam |; und \textbf{Re} ] vgl. As 7.12\textsuperscript{a-d} S. 26: binduś candramayo jñeyo rajaḥ sūryamayaṃ smṛtam | anayoḥ saṃgamaḥ sādhyaḥ kūtāgāre 'tidurghaṭe ||12||}}\&
+
+
+%13ab = AS 7.12ab
+
+%binduś candramayo jñeyo rajaḥ sūryamayaṃ smṛtam|
+%anayoḥ saṃgamaḥ sādhyaḥ kūtāgāre 'tidurghaṭe ||||
+
+%Pts
+%(line 5162 ): prāṇaścandramayaḥ prokto'pānaḥ sūryamayastathā |
+%(line 5163 ): 
+%(line 5164 ): anayoḥ saṅgamo madhye rajo rogasya sādhanam |
+%(line 5165 ): 
+
+%prāṇaś candramayo jñāyo ’pānaḥ sūryamayaṃ tathā |
+%anayoḥ saṃgamaṃ sādhyaṃ, rajobījasya sādhanaṃ ||13||
+
+\stanza
+\setline{14}\linenumannotation{a}\edtext{\edtext{oḍḍīyānaṃ}{\Bfootnote{\textit{uḍḍīyāna} Pts}} \edtext{dṛḍhaṃ}{\Bfootnote{\textit{dṛḍha} Pts}} \edtext{bandhaṃ}{\Bfootnote{\textit{baddha} Pts}} \linenumannotation{b}\edtext{kṛtvā}{\Bfootnote{\textit{kuryād} Pts}} \edtext{recakapūrakau}{\Bfootnote{\textit{recakapūrako} Pts}} |&
+\setline{14}\linenumannotation{c}\edtext{samānāpānayor}{\Bfootnote{\textit{samānodānayor} Pts}} yogaḥ \linenumannotation{d}\edtext{prāṇāpānaikayogataḥ}{\Bfootnote{\textit{prāṇāpānaikayogata} Pts}} ||14||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S.85: uḍḍīyāna dṛḍha baddhā kuryād recakapūrako | samānodānayoryogaḥ prāṇāpānaikayogata |}}\&
+
+%Pts
+%(line 5166 ): uḍḍīyāna dṛḍha baddhā kuryād recakapūrako |
+%(line 5167 ): 
+%(line 5168 ): samānodānayoryogaḥ prāṇāpānaikayogata |
+%(line 5169 ): 
+
+%Ms
+%oḍḍīyānaṃ dṛḍhaṃ bandhaṃ, kṛtvā recakapūrakau |
+%samānāpānayor yogaḥ prāṇāpānekayogataḥ ||14||
+
+\stanza
+\setline{15}\linenumannotation{a}\edtext{kāmarūpe \edtext{tribhir yogaḥ}{\Bfootnote{em. : \textit{tribhir yoga} Pts, \textit{triryoga} Ms}} \linenumannotation{b}\edtext{prāṇāpānasamānakaiḥ}{\Bfootnote{em. :\textit{prāṇāpānasamānakai} Pts, \textit{prāṇāpāne samānakau} Ms}} |&
+\setline{15}\linenumannotation{c}nābhi \edtext{śaktidvayor}{\Bfootnote{em. : \textit{śaktiḥ dvayor} Ms}{\Cfootnote{vgl. Śp 255.27 S.54\textsuperscript{a-d}: prāṇāpānamayī śaktiḥ ṣaṭcakrādhārasaṃyutam |
+śāntaṃ śivaṃ vaśīkṛtya vartate kāmakārataḥ||27|| Belegt die Bezeichnung von \textit{prāṇa} und \textit{apāna} als \textit{śakti}.}}} madhye \linenumannotation{d}\edtext{oḍḍīyānaṃ}{\Bfootnote{em. : \textit{oḍḍiyāṇaṃ} Ms, \textit{uḍḍīyāna} Pts}} \edtext{tad}{\Bfootnote{\textit{sa} Pts}} ucyate ||15||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S.85: kāmarūpe tribhir yoga prāṇāpānasamānakai | nābhi śaktidvayor madhye uḍḍīyāna sa ucyate |}} \&
+
+
+
+%Pts
+%(line 5170 ): kāmarūpe tribhiryoga prāṇāpānasamānakai ||
+%(line 5171 ): 
+%(line 5172 ): nābhi śaktidvayor madhye uḍḍīyāna sa ucyate |
+
+%Ms
+%kāmarūpe triryogaḥ prāṇāpāne samānakau |
+%nābhi śaktiḥ dvayor madhye oḍḍiyānaṃ taducyate ||15||
+
+\stanza
+\setline{16}\linenumannotation{a}\edtext{\edtext{vahnau}{\Bfootnote{\textit{vastau} Pts}} jālandharo jñeyaḥ \linenumannotation{b}\edtext{kāmarūpaś ca}{\Bfootnote{\textit{kāmarūpasya} Pts}} garbhake |&
+\setline{16}\linenumannotation{c}\edtext{pūrṇagirir}{\Bfootnote{\textit{pūrṇagrīvo} Pts}} \edtext{hṛdi}{\Bfootnote{\textit{bhrūvor} Pts}} \edtext{madhye}{\Bfootnote{\textit{mmadhye} Pts}} \linenumannotation{d}\edtext{śrīhaṭṭas}{\Bfootnote{em. : \textit{śrīhaṭṭaṃ} Ms}} tālukopari ||16||}{\lemma{\textbf{Ci}}\Afootnote{vgl. Pts S.85: vastau jālandharo jñeyaḥ kāmarūpasya garbhake | pūrṇagrīvo bhrūvor madhye śrīhaṭṭas tālukopari |}}\&
+
+%MS
+%vahnau jālaṃdharo jñeyaḥ kāmarūpaś ca garbhake |
+%pūrṇṇagiriḥ hṛdir mmadhye śrīhaṭṭaṃ tālukopari ||16||
+
+%Pts
+%vastau jālandharo jñeyaḥ kāmarūpasya garbhake | 
+%pūrṇagrīvo bhrūvor madhye śrīhaṭṭas tālukopari |
+
+\stanza
+\setline{17}\linenumannotation{a}\edtext{ākuṃcya \edtext{gudamūlan}{\Bfootnote{em. : \textit{guḍamūlan} Ms}} tu \linenumannotation{b}cibukaṃ hṛdayopari |&
+\setline{17}\linenumannotation{c}navadvārāṇi saṃyamya \linenumannotation{d}kukṣim āpūrya vāyunā ||17||}{\lemma{\textbf{Ce}}\Afootnote{vgl. As 11.4\textsuperscript{b-d} S.16: āsane kaṭim āropya cibukaṃ hṛdayopari | navadvārāni samyamya kuksim āpūrya vāyunā ||4||; und \textbf{Ri} ] vgl. Śs 4.27\textsuperscript{c-d} S.78: savyaṃ prasāritaṃ pādaṃ dhṛtvā pāṇiyugena vai | navadvārāṇi saṃyamya cibukaṃ hṛdayopari |}}\&
+
+%Ms
+%ākuṃcya guḍamūlan tu, cibukaṃ hṛdayopari  | navadvārāṇi saṃyamya kukṣim āpūrya vāyunā ||17||
+
+%Śs
+% savyaṃ prasāritaṃ pādaṃ dhṛtvā pāṇiyugena vai
+% navadvārāṇi saṃyamya cibukaṃ hṛdayopari 4.27
+
+
+%AS 11.4b-d
+
+%āsane kaṭim āropya cibukaṃ hṛdayopari |
+%navadvārāni samyamya kuksim āpūrya vāyunā ||||
+
+\stanza
+\setline{18}\linenumannotation{a}\edtext{\edtext{cālanaṃ}{\Bfootnote{em. BIRCH : \textit{cāraṇaṃ} Ms}} sarvanāḍīnāṃ \linenumannotation{b}\edtext{dehavahneḥ}{\Bfootnote{em. : \textit{dehavahniḥ} Ms}} pradīpanaṃ |&
+\setline{18}\linenumannotation{c}vahneḥ \edtext{pradīpanān}{\Bfootnote{\textit{pradīpanāt} Ms}} nityaṃ \linenumannotation{d}annādeḥ pācanaṃ bhavet ||18||}{\lemma{\textbf{Re}}\Afootnote{vgl. As 11.6\textsuperscript{c-d} S.16: jāraṇeyaṃ kaṣāyasya cāraṇaṃ bindunādayoḥ | cālanaṃ sarvanāḍīṇāṃ analasya ca dīpanam ||6||}}\& 
+
+%Ms
+%cāraṇaṃ sarvvanāḍīnāṃ, dehavahniḥ pradīpanaṃ, | vaṃḥneḥ pradīpanāt nityaṃ annādeḥ pācanaṃ bhavet ||18||
+
+
+%18ab cf. AS 11.6cd
+
+%jāraṇeyaṃ kaṣāyasya cāraṇaṃ bindunādayoḥ |
+%cālanaṃ sarvanāḍīṇāṃ analasya ca dīpanam ||||
+
+\stanza
+\setline{19}\linenumannotation{a}\edtext{annādeḥ \edtext{pācanān}{\Bfootnote{em. : \textit{pācanāt} Ms}} nityaṃ \linenumannotation{b}rasavṛddhiḥ prajāyate |&
+\setline{19}\linenumannotation{c}\edtext{svabhāvād}{\Bfootnote{em. : \textit{svabhāvāṭ} Ms}} bīja evāsau \linenumannotation{d}\edtext{binduṃ}{\Bfootnote{em. : \textit{biṃdu} Ms}} bibharti nānyathā ||19||}{\lemma{\textbf{Re}}\Afootnote{vgl. As 14.9\textsuperscript{c-d} S.21: vahnau vivardhamāne ca sukham annasya pākatā | annasya paripākena rasavṛddhiḥ prajāyate ||9||}}\&
+
+
+%Ms
+%annādeḥ pācanāt nityaṃ rasavṛddhiḥ prajāyate | svabhāvāṭ bīja evāsau, biṃdu bibhartti nānyathā ||19||
+
+%19ab cf. AS 14.9cd
+
+%vahnau vivardhamāne ca sukham annasya pākatā |
+%annasya paripākena rasavṛddhiḥ prajāyate ||||
+
+\stanza
+\setline{20}\linenumannotation{a}adhikaṃ sarvagātreṣu \linenumannotation{b}bhavanti \edtext{cāṣṭadhātavaḥ}{\Bfootnote{em. : \textit{cāṣṭadhāvataḥ} Ms}} |&
+\setline{20}\linenumannotation{c}\edtext{\edtext{bījam}{\Bfootnote{em. : \textit{vāyur} Ms}} eva paro dehe \linenumannotation{d}mūlasāraḥ prakīrtitaḥ ||20||}{\lemma{\textbf{Re}}\Afootnote{vgl. As 7.1\textsuperscript{a-b} S.9: bījam ekaṃ śarīreṣu mūlasāraṃ prakīrtitam | yad atra dṛśyate loke tat sarvaṃ bījasambhavam ||1||}}\&
+
+
+%Ms
+%adhikaṃ sarvagātreṣu, bhavanti cāṣṭadhāvataḥ | vāyur eva paro dehe, mūlasāraḥ prakīrttitaḥ ||20||
+
+%20b cf. AS 7.1
+
+%bījam ekaṃ śarīreṣu mūlasāraṃ prakīrtitam |
+%yad atra dṛśyate loke tat sarvaṃ bījasambhavam ||||
+
+%Verse 20 Cf. ->cāṣṭadhāvataḥ -> cāṣṭadhātavaḥ
+
+%Śrīgahvara at Tantrāloka 15.226 (see below).
+%ityādi śrīgahvaroktaṃ tata eva paṭhedbahu |
+%tata eva bahu paṭhediti--asmābhistu granthavistarabhayānna paṭhitam--ityabhiprāyaḥ |
+%taduktaṃ tatra-- "brahmādistambaparyantaṃ viśvaṃ tu sacarācaram |
+%māyātattvasakāśāttu sarvameva viniḥsṛtam ||
+%dharmādharmanibaddhastu piṇḍa utpadyate tadā |
+%tata utpadyate gandhaḥ śukraśoṇitasaṃbhavaḥ ||
+%śukrānmāṃsaṃ tato medo majjā cāsthīni dehinām |
+%raktāttvaksnāyumāṃsaṃ ca dhātuṣaṭkaṃ bhavedidam ||
+%śukraṃ ca śoṇitaṃ caiva aṣṭadhātukamucyate |
+%paścādbhūtagaṇopeto deho bhavati dehinām ||
+%yathā gṛhaṃ tu niṣpādya gṛhī paścāttu tiṣṭhati |
+%evaṃ dehaṃ viniṣpādya dehī tiṣṭhati ceśvaraḥ ||
+%puruṣaḥ śūnyarūpastu niṣkriyo guṇavarjitaḥ |
+%kiñcitsphuraṇamātrastu niṣkalaḥ sa hi kathyate ||
+%sakalaḥ kalayā yuktaḥ śāntātmā prabhuravyayaḥ |
+%tanmātrāṇi ca bhūtāni indriyāṇi daśaiva tu ||
+%indriyārthā mano buddhistathāhaṅkāra eva ca |
+%vijñeyaḥ sakalo hyeṣa śivo dehe vyavasthitaḥ ||
+%mānuṣāṇāṃ paśūnāṃ ca sarpāṇāṃ jalacāriṇām |
+%vyāpako.api śivākhyo vai saṃsāre saṃvyavasthitaḥ ||"
+%ityādi bahu
+
+\stanza
+\setline{21}\linenumannotation{a}vāyoḥ prasādhanād eva \linenumannotation{b}\edtext{āyurvṛddhir}{\Bfootnote{em. : \textit{āyurvṛddhi} Ms}} dine dine |&
+\setline{21}\linenumannotation{c}\edtext{\edtext{hṛdi}{\Bfootnote{em. : \textit{hṛdiḥ} Ms}} prāṇo \edtext{gude}{\Bfootnote{em. : \textit{guḍe} Ms}}'pānaḥ \linenumannotation{d}samāno nābhisaṃsthitaḥ ||21||}{\lemma{\textbf{Ri}}\Afootnote{vgl. Śp 255.45\textsuperscript{a-b} S.330: hṛdi prāṇo gude 'pānaḥ samāno nābhisaṃsthitaḥ |; und \textbf{Ri} ] vgl. Śs 3.7\textsuperscript{a-b} S.41: hṛdi prāṇo gude 'pānaḥ samāno nābhimaṇḍale |; und \textbf{Re}] vgl. As 6.7\textsuperscript{a-b} S.7: hṛdi prāṇo vasen nityam apāno gudamaṇḍale |}}\&
+
+%Ms
+%vāyoḥ prasādhanād eva, āyurvṛddhi dine dine | hṛdiḥ prāṇo guḍe ’pānaḥ samāno nābhisaṃsthitaḥ ||21||
+
+%Śp:
+%hṛdi prāṇo gude 'pānaḥ samāno nābhisaṃsthitaḥ|
+%udānaḥ kaṇṭhadeśe ca vyānaḥ sarvaśarīragaḥ||45||% = ŚS 3.7
+%Śs
+%hṛdi prāṇo gude'pānaḥ samāno nābhimaṇḍale |
+%udānaḥ kaṭhadeśastho vyānaḥ sarvaśarīragaḥ || 3-7 ||
+%As 6.7-8:
+%hṛdi prāṇo vasen nityam apāno gudamaṇḍale |
+%samāno nābhideśe tu sadodānaś ca kaṇṭhake ||7||
+%vyāno vyāpī śarīre ca pradhānāḥ pañca vāyavaḥ |
+%eṣāṃ vistarato bhedaḥ kathituṃ naiva śakyate ||8||
+
+\stanza
+\setline{22}\linenumannotation{a}\edtext{udānaḥ kaṇṭhadeśe ca \linenumannotation{b}vyānaḥ sarvaśarīragaḥ |}{\lemma{\textbf{Ci}}\Afootnote{vgl. Śp 255.45\textsuperscript{c-d} S.330: udānaḥ kaṇṭhadeśe ca vyānaḥ sarvaśarīragaḥ ||45||; und \textbf{Cie} ] vgl. Śs 3.7\textsuperscript{c-d} S.41: udānaḥ kaṭhadeśastho vyānaḥ sarvaśarīragaḥ ||; und \textbf{Re} ] vgl. As 6.7\textsuperscript{c-d}: samāno nābhideśe tu sadodānaś ca kaṇṭhake ||7||; und As 6.8\textsuperscript{a-b}: vyāno vyāpī śarīre ca pradhānāḥ pañca vāyavaḥ |}}&  
+\setline{22}\linenumannotation{c}\edtext{sthānavāyuṃ}{\Bfootnote{em. : \textit{sthānavāyuñ} Ms}} ca saṃkṣipya \linenumannotation{d}\edtext{vastideśe}{\Bfootnote{em. : \textit{vasthideśe} Ms}} punaḥ punaḥ ||22|| \&
+
+%Ms
+%udānaḥ kaṇṭhadeśe ca, vyānaḥ sarvva śarīragaḥ | sthānavāyuñ ca saṃkṣipya, vasthideśe punaḥ punaḥ ||22||
+
+\stanza 
+\setline{23}\linenumannotation{a}\edtext{\edtext{udghātayec}{\Bfootnote{em. BIRCH: \textit{udghāte ye} Ms}} cakranālaṃ \linenumannotation{a}\edtext{suṣumṇāyāṃ}{\Bfootnote{em. : \textit{suṣumṇāyā} Ms}} sugopitaṃ |&
+\setline{23}\linenumannotation{c}brahmagranthiṃ tato \edtext{bhittvā}{\Bfootnote{em. : \textit{titvā} Ms}} \linenumannotation{d}vāyur viśati madhyamāṃ ||23||}{\lemma{\textbf{Re}}\Afootnote{vgl. As 13.11\textsuperscript{a-d}: rudragranthiṃ tato bhittvā chittvā mohamayīṃ latām | udghāṭayaty ayaṃ vāyur brahmadvāraṃ sugopitam ||11||}} \&
+
+%Ms
+%udghāte ye cakranālaṃ, suṣumṇāyā sugopitaṃ | brahmagranthiṃ tato titvā vāyur viśati madhyamāṃ ||23||
+
+%AS 13.11:
+%rudragranthiṃ tato bhittvā chittvā mohamayīṃ latām |
+%udghāṭayaty ayaṃ vāyur brahmadvāraṃ sugopitam ||11||
+
+\stanza
+\setline{24}\linenumannotation{a}\edtext{svādhicakraṃ liṅgamūle}{\lemma{\textbf{Ri}}\Afootnote{vgl. Pu 3.233\textsuperscript{c-d} S.316: svādhiṣṭhānaṃ liṅgamūle cakraṃ ṣaḍdalamucyate ||}} \linenumannotation{b}tato vāyur viśaty api |&
+\setline{24}\linenumannotation{c}maṇipūraṃ nābhideśe \linenumannotation{d}tato vidhyāt sadāgatiḥ ||24||\&
+
+\stanza
+\setline{25}\linenumannotation{a}hṛdi madhye viṣṇugranthiṃ \linenumannotation{b}bhittvā kaṇṭhaguṇākaraṃ |&
+\setline{25}\linenumannotation{c}tālumūlaṃ sudhācakre bhittvā \linenumannotation{d}rudrālayaṃ vrajet ||25||\&
+
+%Ms
+%hṛdi madhye viṣṇugraṃthiṃ, bhitvā kaṇṭhaguṇākaraṃ | tālumūlaṃ sudhācakre, bhitvā rudrālayaṃ vrajet* ||25||
+
+\stanza
+\setline{26}\linenumannotation{a}cakraṃ \edtext{cakraṃ}{\Bfootnote{em. : \textit{cakra} Ms}} yadā bhittvā \linenumannotation{b}vāyur yāti pure pure |&
+\setline{26}\linenumannotation{c}\edtext{vāyunā saha yogena \linenumannotation{d}\edtext{bindus}{\Bfootnote{em. : \textit{bindu} Ms}} tatraiva gacchati ||26||}{\lemma{\textbf{Re}}\Afootnote{vgl. As 7.6\textsuperscript{a-b} S. 9: vāyunā sādhyate bindur na cānyad bindusādhanam |}} \&
+
+%Ms
+%cakraṃ cakra yadā bhitvā, vāyur yāti pure pure | vāyunā saha yogena, bindu tatraiva gacchati ||26||
+
+\stanza
+\setline{27}\linenumannotation{a}\edtext{\edtext{yām avasthāṃ}{\Bfootnote{em. : \textit{yāvanasthāṃ} Ms}} \edtext{vrajed}{\Bfootnote{em. : \textit{vraje} Ms}} \edtext {vāyur}{\Bfootnote{em. : \textit{vāyu} Ms}} \linenumannotation{b}\edtext{bindus tām eva}{\Bfootnote{em. : \textit{bindusthānena} Ms}} gacchati |}{\lemma{\textbf{Ce}}\Afootnote{vgl. As 7.6\textsuperscript{c-d} S.9: yām avasthām vrajed vāyur bindus tām eva gacchati ||7||}} &
+\setline{27}\linenumannotation{c}\edtext{śaṅkhinīnālaṃ}{\Bfootnote{em. : \textit{śaṃkhinīnāla} Ms}} saṃprāpya \linenumannotation{d}\edtext{cātiśūnyaṃ}{\Bfootnote{em. BIRCH : \textit{cāsthiśūnyaṃ} Ms}{\Cfootnote{Vgl. As 20.7\textsuperscript{a-d}: saṃpūrṇāyāṃ dvitīyāyām atiśūnyaṃ prajāyate | bherīśabdastadāmadhyevipākakṣaṇasaṃbhavaḥ ||7|| Belegt die Verwendung des Begriffes \textit{ātiśūnya} im Kontext des \textit{Amṛtasiddhi}.}}} bibharti saḥ ||27||\&
+
+
+%Ms
+%yāvanasthāṃ vraje vāyu bindusthānena gacchati | śaṃkhinīnāla saṃprāpya, cāsthiśūnyaṃ bibhartti saḥ ||27||
+
+%As
+%vāyunā sādhyate bindur na cānyad bindusādhanam |
+%yām avasthām vrajed vāyur bindus tām eva gacchati ||7||
+
+%Śaṅkhinī grep search! 
+
+\stanza
+\setline{28}\linenumannotation{a}tataḥ kṣīramayo dehaḥ \linenumannotation{b}piṇḍasiddho bhaved dhruvaṃ |&
+\setline{28}\linenumannotation{c}evaṃ abhyāsayogeṇa \linenumannotation{d}naro \edtext{brahmaṇi}{\Bfootnote{em. : \textit{brahmani} Ms}} yaḥ sthitaḥ ||28||\&
+
+%Ms
+%tataḥ kṣīramayo dehaḥ piṇḍasiddho bhaved dhruvaṃ | evaṃm abhyāsayogeṇa, naro brahmani yaḥ sthitaḥ ||28||
+
+\stanza
+\setline{29}\linenumannotation{a}\edtext{tasya pāpaṃ kṣayaṃ yāti}{\lemma{\textbf{Ri}}\Afootnote{vgl. Rmt 21.14\textsuperscript{c} S.172: ṣaṭcakrārthaṃ na jānāti yo bhajedambikāpadam | tasya pāpaṃ kṣayaṃ yāti saptajanmasu siddhibhāk || 21-14 ||}} \linenumannotation{b}janmakoṭiśatārjitaṃ |&
+\setline{29}\linenumannotation{c}māse māse \edtext{'śvamedhasya}{\Bfootnote{em. : \textit{'śvamedhaś ca} Ms}} \linenumannotation{d}yajñasya ca phalaṃ bhavet ||29||\&
+
+
+%Ms
+%tasya pāpaṃ kṣayaṃ yāti, janmakoṭiśatārjitaṃ, | māse māse ’śvamedhaś ca yajñasya ca phalaṃ bhavet ||29||\&
+
+\stanza
+\setline{30}\linenumannotation{a}varṣeṇa \edtext{rājasūyasya}{\Bfootnote{em. MISHRA: \textit{rājasūryasya} Ms}} \linenumannotation{b}phalaṃ tasya na saṃśayaḥ |&
+\setline{30}\linenumannotation{c}\edtext{\edtext{dahyante}{\Bfootnote{em. : \textit{dahyate} Ms}} sarvapāpāni \linenumannotation{d}koṭijanmārjitāni ca ||30||}{\lemma{\textbf{Cee}}\Afootnote{vgl. As 14.17\textsuperscript{a-b} S. 21: dahyante sarvapāpāni janmakoṭikṛtāni ca | und \textbf{Cie} ] vgl. Vu\textsuperscript{c-d} S. 18: dahyante sarvapāpāni janmakoṭyarjitāni ca || 49 ||}} \&
+
+
+%Ms
+%varṣaṇa rājasūryasya, phalaṃ tasya na saṃśayaḥ | dahyate sarvvapāpāni, koṭijanmārjitāni ◎ ca ||30||
+
+%Verse 30-32
+
+%AS 14.17-18
+%dahyante sarvapāpāni janmakoṭikṛtāni ca |
+%ihaivābhyāsayogena tṛṇāni vahninā yathā ||17||
+
+%tapāṃsi yāni kathyante yajñadānavratāni ca |
+%koṭikoṭiguṇais tāni bhavanty abhyāsayogataḥ || 18 ||
+
+%Varaha Upapaniṣad
+%dahyante sarvapāpāni janmakoṭyarjitāni ca || 49 ||
+
+\stanza
+\setline{31}\linenumannotation{a}\edtext{ihaivābhyāsayogeṇa \linenumannotation{b}tṛṇāni vahninā \edtext{yathā}{\Bfootnote{em. : \textit{jathā} Ms}} |}{\lemma{\textbf{Ce}}\Afootnote{vgl. As 17\textsuperscript{c-d} S.21: ihaivābhyāsayogena tṛṇāni vahninā yathā ||17||}} &
+\setline{31}\linenumannotation{c}\edtext{tapāṃsi \edtext{yāni}{\Bfootnote{em. : \textit{yoni} Ms}} kathyante \linenumannotation{d}yajñadānavratāni ca ||31||}{\lemma{\textbf{Ce}}\Afootnote{vgl. As 18\textsuperscript{a-b} S.21: tapāṃsi yāni kathyante yajñadānavratāni ca |}} \&
+
+
+%Ms
+%ihaivābhyāsayogeṇa, tṛṇāni vahninā jathā | tapāṃsi yoni kathyaṃte, yajñadānavratāni ca ||31||
+
+\stanza
+\setline{32}\linenumannotation{a}\edtext{koṭikoṭiguṇais tāni \linenumannotation{b}\edtext{bhavanty}{\Bfootnote{em. : \textit{bhavaty} Ms}} abhyāsayogataḥ |}{\lemma{\textbf{Ce}}\Afootnote{vgl. As 18\textsuperscript{c-d} S.21: koṭikoṭiguṇais tāni bhavanty abhyāsayogataḥ || 18 ||}} &
+\setline{32}\linenumannotation{c}nandanti pitaraḥ sarve \linenumannotation{d}\edtext{putrā}{\Bfootnote{em. : \textit{putro} Ms}} \edtext{yogānusāriṇaḥ}{\Bfootnote{em. MISHRA: \textit{yogānusāriṇī} Ms}} ||32|| \&
+
+\stanza
+\setline{32}\linenumannotation{e}bhuñjante ca sukhaṃ sarve \linenumannotation{f}sarvaduḥkhavivarjitāḥ |\&
+%Ms
+%koṭikoṭi guṇais tāni, bhavaty abhyāsayogataḥ | nandanti pitaraḥ sarve, putro yogānusāriṇī ||32||
+
+%\setline{32}\linenumannotation{e}bhuñjante ca sukhaṃ \edtext{sarvaṃ}{\Bfootnote{em. : \textit{sarvve} Ms}} \linenumannotation{f}sarvaduḥkhavivarjitāḥ |\&
+
+%Ms
+%bhuñjante ca sukhaṃ sarrve, sarvaduḥkhavivarjitāḥ, ||
+\endgroup
+\endnumbering
+
+\subsection{\textit{dhyānayoga}-Abschnitt GYŚ 33-65}
+\begingroup
+\beginnumbering
+
+\linenumberstyle{alph}
+\stanza
+\setline{3}devy uvāca ||\&
+
+\endgroup
+\endnumbering
+
+\begingroup
+\beginnumbering
+\autopar
+
+\numberlinetrue
+\linenumberstyle{arabic}
+\stanza
+\setline{33}\linenumannotation{a}upāyaṃ dhyānayogasya \linenumannotation{b}brūhi me \edtext{śaśiśekhara}{\Bfootnote{em. : \textit{śaśiseṣara} Ms}} |&
+\setline{33}\linenumannotation{c}\edtext{yaṃ}{\Bfootnote{em. BIRCH: \textit{yal} Ms}} labdhvā yoginaḥ sarve \linenumannotation{d}\edtext{mucyante}{\Bfootnote{em. : \textit{mucyate} Ms}} janmabandhanāt ||33||\&
+
+%Ms
+%upāyaṃ dhyānayogasya brūhi me śaśiseṣara, | yal la(bdh)vā yoginaḥ sarrve, mucyate janmabaṃdhanāt, ||33||
+
+\endgroup
+\endnumbering
+
+\begingroup
+\beginnumbering
+
+\linenumberstyle{alph}
+\stanza
+\setline{4}\edtext{īśvara uvāca}{\Bfootnote{em. : \textit{īśvarovāca} Ms}} ||\&
+
+\numberlinetrue
+\linenumberstyle{arabic}
+\stanza
+\setline{34}\linenumannotation{a}\edtext{nābhimadhye sthito brahmā \linenumannotation{b}hṛdi madhye \edtext{tu}{\Bfootnote{\textit{ca} Pts}} \edtext{mādhavaḥ}{\Bfootnote{\textit{keśavaḥ} Pts}} | &
+  \setline{34}\linenumannotation{c}\edtext{śirasi śaṅkaro}{\Bfootnote{\textit{śaṅkara śirasi} Pts}} \edtext{jñeyas}{\Bfootnote{em. : \textit{jñeyā} Ms}} \linenumannotation{d}\edtext{tristhānaṃ muktidaṃ smṛtaṃ}{\Bfootnote{\textit{tristhānaṃ muktidāyakam} Pts}} ||34||}{\lemma{\textbf{Cie}}\Afootnote{vgl. Pts S.85: nābhimadhye sthito brahmā hṛdi madhye ca keśavaḥ | śaṅkara śirasi jñeyas tristhānaṃ muktidāyakam |}}\&
+
+
+%Pts
+%nābhimadhye sthito brahmā hṛdi madhye ca keśavaḥ |
+%śaṅkaraḥ śirasi jñeyastristhānaṃ muktidāyakam ||
+  
+\stanza
+\setline{35}\linenumannotation{a}nābhimadhye paraṃ jyotiḥ \linenumannotation{b}pradīpaṃ tad daśāṅgulaṃ |&
+\setline{35}\linenumannotation{c}\edtext{jyotiḥpuñjaś}{\Bfootnote{em. BIRCH : \textit{jyotipuñja} Ms}} ca cakravat \linenumannotation{d}hṛdimadhye ca tiṣṭhati ||35||\&
+
+%Ms
+%nābhimadhye paraṃ jyotiḥ pradīpaṃ tad daśāṅgulaṃ | jyotipuñja  ca cakravat* hṛdimadhye ca tiṣṭhati ||35||
+
+\stanza
+\setline{36}\linenumannotation{a}\edtext{śuddhasphaṭikasaṃkāśaṃ \linenumannotation{b}candrakoṭisamaprabhaṃ |}{\lemma{\textbf{Ci}}\Afootnote{vgl. Dhbu 29\textsuperscript{a-b} S.3: śuddhasphaṭikasaṃkāśaṃ candrakoṭisamaprabhaṃ |}} &
+\setline{36}\linenumannotation{c}dhyāyet mūrddhni \edtext{śivajyotir}{\Bfootnote{em. : \textit{śivajyoti} Ms}} \linenumannotation{d}ghṛtapiṇḍam ivoddhṛtaṃ ||36||\&
+
+%Sehr interessant, dass dhayanabindu ganz ähnlich ist: 
+%28-29. One should meditate upon the stainless Lord Vasudeva as being (seated) upon the centre of Pitha, as having Srivatsa (black mark) and Kaustubha (garland of gems) on his chest and as adorned with gems and pearls resembling pure crystal in lustre and as resembling Crores of moons in brightness. He should meditate upon Maha-Vishnu as above or in the following manner.
+
+%30-31. (That is) he should meditate with inspiration (of breath) upon Maha-Vishnu as resembling the Atasi flower and as staying in the seat of navel with four hands; then with restraint of breath, he should meditate in the heart upon Brahma, the Grandfather as being on the lotus with the Gaura (pale-red) colour of gems and having four faces;
+
+%32-34(a). Then through expiration, he should meditate upon the three-eyed Shiva between the two eyebrows shining like the pure crystal, being stainless, destroying all sins, being in that which is like the lotus facing down with its flower (or face) below and the stalk above or like the flower of a plantain tree, being of the form of all Vedas, containing one hundred petals and one hundred leaves and having the pericarp full-expanded.
+
+%Ms
+%śuddhasphaṭikasaṃkāśaṃ, caṃdrakoṭisamaprabhaṃ | dhyāyet mūrddhni śivajyoti, ghṛtapiṇḍam ivoddhṛtaṃ, ||36||
+\stanza
+\setline{37}\linenumannotation{a}acañcalaṃ manaṃ kṛtvā \linenumannotation{b}trayāṇāṃ jyotiṣāṃ śanaiḥ |&
+\setline{37}\linenumannotation{c}melakaṃ vāyubindūbhyāṃ \linenumannotation{d}kartavyaṃ manasā budhaiḥ ||37||\&
+
+%Ms37-39
+%acañcalaṃ manaṃ kṛtvā, trayāṇāṃ jyotiṣāṃ śanaiḥ | melakaṃ vāyubiṃdūbhyāṃ, karttavyaṃ manasā budhaiḥ ||37||  kāmarūpe cakranāle madhyamāṃ madhyagoca ¦
+% re | tathā cakreṣu sarvveṣu, pratyaṃ ¦ ◎ jyotiḥ pradṛśyate ||38|| yasminn abhyāsato vāyur* mano biṃdus tathaiva ca, | ◎ jyotiṣi trīṇi tatraiva, teṣu cātmā pratiṣṭhati ||39|| 
+
+
+\stanza
+\setline{38}\linenumannotation{a}kāmarūpe cakranāle \linenumannotation{b}\edtext{madhyamāmadhyagocare}{\Bfootnote{em. BIRCH: \textit{madhyamāṃ madhyagocare} Ms}} |&
+\setline{38}\linenumannotation{c}tathā cakreṣu sarveṣu \linenumannotation{d}\edtext{pṛthag}{\Bfootnote{conj. BIRCH: \textit{pratyaṃ} Ms}} jyotiḥ pradṛśyate ||38||\&
+
+\stanza
+\setline{39}\linenumannotation{a}yasmin abhyāsato vāyur \linenumannotation{b}mano bindus tathaiva ca |&
+\setline{39}\linenumannotation{c}jyotiṣi trīṇi tatraiva \linenumannotation{d}teṣu cātmā pratiṣṭhati ||39||\&
+
+\stanza
+\setline{40}\linenumannotation{a}\edtext{nābhimadhye ca}{\Bfootnote{conj. : \textit{nābhimadhyeṣu} Ms}} sarveṣu \linenumannotation{b}\edtext{jyotiḥ}{\Bfootnote{conj. : \textit{jyotiṣāṃ} Ms}} \edtext{saṃdīpyate}{\Bfootnote{conj. : \textit{dīpyate} Ms}} yathā |&
+\setline{40}\linenumannotation{a}tatraiva \edtext{cātiśūnye}{\Bfootnote{em. : \textit{cāsthiśūnye} Ms}} tu \linenumannotation{d}kālacāraḥ palāyate ||40||\&
+
+%nābhimadhyeṣu sarveṣu, jyotiṣāṃ dīpyate yathā | tatraiva cāsthiśūnye tu, kālacāraḥ palāyate || x 40 x ||
+
+\stanza
+\setline{41}\linenumannotation{a}evaṃ dhyānaṃ sadā buddhyā\linenumannotation{b} kuryāt \edtext{jyotirmayo}{\Bfootnote{em. BIRCH: \textit{jyotirmayaṃ} Ms}} \edtext{budhaḥ}{\Bfootnote{em. BIRCH: \textit{buddhaḥ} Ms}} |&
+\setline{41}\linenumannotation{c}jyotiṣāṃ vāyubindunāṃ\linenumannotation{d} melakaṃ muktidāyakaṃ ||41||\&
+
+%evaṃ dhyānaṃ sadā buddhyā, kuryāt* jyotirmayaṃ buddhaḥ |
+%jyotiṣāṃ vāyu biṃdunāṃ, melakaṃ ¦ ◎ muktidāyakaṃ ||41||
+
+\stanza
+\setline{42}\linenumannotation{a}evaṃ \edtext{dhyānaṃ}{\Bfootnote{em. :\textit{dhyāna} Ms}} sthiraṃ yasya\linenumannotation{b} na bāhyaṃ labhyate manaḥ |&
+\setline{42}\linenumannotation{c}vāyur \edtext{bindur}{\Bfootnote{em. :\textit{bindu} Ms}} manaś cātmā\linenumannotation{d} tasya \edtext{sarvaṃ}{\Bfootnote{em. : \textit{sarva} Ms}} sthiraṃ bhavet ||42||\&
+
+\stanza
+\setline{43}\linenumannotation{a}\edtext{cale bindau cale citte\linenumannotation{b} cale vāyau ca sarvadā |}{\lemma{\textbf{Ce}}\Afootnote{Vgl. As 7.20\textsuperscript{a-d}: cale bindau cale citte cale vāyau ca sarvadā | jāyate mriyate lokaḥ satyaṃ satyam idaṃ vacaḥ ||20||}} & 
+\setline{43}\linenumannotation{c}calate \edtext{calyamāno}{\Bfootnote{em. : \textit{calamāno} Ms}} \edtext{'sau}{\Bfootnote{em. : \textit{sau} Ms}}\linenumannotation{d} mṛtyum abhyeti \edtext{śāśvatam}{\Bfootnote{em. : \textit{śāśvata} Ms}} ||43||\&
+
+%evaṃ dhyānasthiraṃ yasya na bāhyaṃ labhyate manaḥ | vāyur bi ◎ ndu manaś cātmā, tasya sarvvasthiraṃ bhavet*
+
+%cale bindau cale citte, cale vāyau ca sarvadā | calate calamā↓nosau, mṛtyum abhyeti śāśvata ||43||
+
+\stanza 
+\setline{44}\linenumannotation{a}tasmād acañcalo bhūtvā\linenumannotation{b} yogī dhyāne \edtext{sthirāyate}{\Bfootnote{em. : \textit{sthirāyati} Ms}} |&
+\setline{44}\linenumannotation{c}ku .. .. .. .. .. .. tya\linenumannotation{d} svayaṃ brahmasamo bhavet ||44||\& 
+
+\stanza
+\setline{45}\linenumannotation{a}kathitaṃ dhyānayogasya\linenumannotation{b} samuddeśe ca vismṛte |&
+\setline{45}\linenumannotation{c}dhyānātītaṃ \edtext{parabrahma}{\Bfootnote{em. : \textit{paraṃ brahma} Ms}}\linenumannotation{d} sarvaśāstreṣu gopitaṃ ||45||\&
+
+%kathitaṃ dhyānayogasya, samuddeśe ca vismṛte | dhyānātītaṃ paraṃ brahma, sarvva ◎ śāstreṣu gopitaṃ ||45||
+
+\stanza
+\setline{46}\linenumannotation{a}brahmāviṣṇuśivādīnāṃ\linenumannotation{b} eko \edtext{'sau}{\Bfootnote{em. : \textit{sau} Ms}} \edtext{janako}{\Bfootnote{em. BIRCH: \textit{janakā} Ms}} vibhūḥ |&
+\setline{46}\linenumannotation{c}ādhāro bhuvanānāñ ca\linenumannotation{d} \edtext{dehastho}{\Bfootnote{em. BIRCH: \textit{dehasthā} Ms}} \edtext{dehavarjitaḥ}{\Bfootnote{em. BIRCH: \textit{dehavarjitāḥ} Ms}} ||46||\&
+
+%brahmāviṣṇuśivādīnāṃ eko sau janakā vibhūḥ | ādhāro bhuvanānāñ ca, dehasthā dehavarjjitāḥ ||46
+
+\stanza
+\setline{47}\linenumannotation{a}eko \edtext{vyāpīśaḥ}{\Bfootnote{em. : \textit{vyāpīśa} Ms}} \edtext{saṃvṛtter}{\Bfootnote{em. BIRCH: \textit{saṃvṛtte} Ms}}\linenumannotation{b} nirguṇaḥ \edtext{prakṛter}{\Bfootnote{em. BIRCH: \textit{prakṛte} Ms}} paraḥ |&
+\setline{47}\linenumannotation{c}janmavṛddhyādirahita\linenumannotation{d} ātmā sarvagatāvyayaḥ ||47||\&
+
+
+%eko vyāpīśasaṃvṛtte nirguṇaḥ prakṛte paraḥ | janmavṛ(ddhyā)dirahita, ātmā sarvagatā vyayaḥ ||47||
+
+\stanza
+\setline{48}\linenumannotation{a}nirālaṃbe manaḥ kṛtvā\linenumannotation{a} kūryāc chunye \edtext{manaḥ}{\Bfootnote{em. : \textit{mana} Ms}} sthiraṃ |&
+\setline{48}\linenumannotation{c}\edtext{anityaṃ}{\Bfootnote{em. : \textit{anitya} Ms}} khaṇḍayet sarvaṃ\linenumannotation{d} yat kiñcit manasārjitaṃ ||48||\&
+
+%nirālaṃbe manaḥ ◎ (kṛ)tvā, kuryāc chunye manasthiraṃ, | anitya khaṇḍayet sarvaṃ, yatkiñcit manasā ¦ ◎ rjitaṃ, ||48||
+
+\stanza
+\setline{49}\linenumannotation{a}khaṇḍayet satataṃ devi\linenumannotation{b} vinaṣṭaṃ pañcabhautikaṃ |&
+\setline{49}\linenumannotation{c}karaṇāni manaś caiva\linenumannotation{d} yadā brahmaṇi nīyate ||49||\&
+
+%khaṇḍayet satataṃ devi, vinaṣṭaṃ pañcabhautikaṃ | karaṇāni mana ◎ ś caiva yadā brahmaṇi nīyate
+
+\stanza
+\setline{50}\linenumannotation{a}tadā brahmapadaṃ prāpya\linenumannotation{b} yogī muktipadaṃ \edtext{vrajet}{\Bfootnote{em. : \textit{vrajeta} Ms}} |&
+\setline{50}\linenumannotation{c}animādiguṇās tasya\linenumannotation{d} \edtext{sarvaṃ}{\Bfootnote{em. : \textit{sarva} Ms}} sidhyati nānyathā ||50||\&
+
+\linenumberstyle{alph}
+\stanza
+\setline{5}devy uvāca ||\&
+
+\numberlinetrue
+\linenumberstyle{arabic}
+\stanza
+\setline{51}\linenumannotation{a}\edtext{indriyāṇāṃ}{\Bfootnote{em. : \textit{indriyānā} Ms}} .. .. .. ..\linenumannotation{b} .. .. .. .. .. .. .. .. |&
+\setline{51}\linenumannotation{c}gocaraṃ kathaṃ tasya\linenumannotation{d} śiṣyaiś ca kṣudrabuddhibhiḥ || 51 ||\& 
+
+
+\linenumberstyle{alph}
+\stanza
+\setline{6}\edtext{īśvara uvāca}{\Bfootnote{em. : \textit{īśvarovāca} Ms}} ||\&
+
+\numberlinetrue
+\linenumberstyle{arabic}
+\stanza
+\setline{52}\linenumannotation{a}brahmāṇḍasyordhvato brahma\linenumannotation{b}\edtext{padaṃ}{\Bfootnote{em. SZÁNTÓ : \textit{paraṃ} Ms}} jyotirmayaṃ śubhaṃ |&
+\setline{52}\linenumannotation{c}tad \edtext{ūrdhvañ}{\Bfootnote{em. : \textit{ūrddhañ} Ms}} ca \edtext{padaṃ}{\Bfootnote{em. SZÁNTÓ: \textit{paraṃ} Ms}} viṣṇoḥ\linenumannotation{d} hṛdaye ca guṇānvitaṃ ||52||\&
+
+%Ms: brahmāṇḍe syād b. .. brahma paraṃ jyotirmmayaṃ śubhaṃ, | tad ūrddhañ cca paraṃ viṣṇoḥ hṛdaye ca guṇānvitaṃ, ||52||
+
+\stanza
+\setline{53}\linenumannotation{a}tad \edtext{ūrdhvañ}{\Bfootnote{em. : \textit{ūrddhañ} Ms}} \edtext{ca rudrapadaṃ}{\Bfootnote{conj. : \textit{caiva rudrāṇāṃ} Ms}}\linenumannotation{b} dṛśyate nātra saṃśayaḥ |&
+\setline{53}\linenumannotation{c}tad \edtext{ūrdhvañ}{\Bfootnote{em. : \textit{ūrddhañ} Ms}} ca mahāśūnyaṃ\linenumannotation{d} yatra brahma \edtext{yathāśrayaṃ}{\Bfootnote{em. BIRCH : \textit{yathāśramaṃ} Ms}} ||53||\&
+
+%Ms: tad ūrddhañ ccaiva rudrāṇāṃ, dṛśya ◎ te nātrasaṃśayaḥ | tad ūrddhañ cca mahāśūnyaṃ, yatra brahma yathāśramaṃ ||53||
+
+\stanza
+\setline{54}\linenumannotation{a}tatraiva ca mano nītvā\linenumannotation{b} mahāśūnyamayopari |&
+\setline{54}\linenumannotation{c}kālasya ca kṣayaṃ jñātvā\linenumannotation{d} svayaṃ brahma samo bhavet ||54||\&
+
+%Ms: tatraiva ca mano nītvā, mahāśūnyamayopari | kālasya ca kṣayaṃ jñātvā svayaṃ brahma samo bhavet* ||54||
+
+\stanza
+\setline{55}\linenumannotation{a}ata eva śivādīnāṃ\linenumannotation{b} nidrāvyājena \edtext{pārvati}{\Bfootnote{em. : \textit{pārvvatī} Ms}} |&
+\setline{55}\linenumannotation{c}\edtext{pratyakṣe}{\Bfootnote{em. : \textit{pratyadde} Ms}} jñānacintāyāṃ\linenumannotation{d} na kiñcid anyathā bhavet ||55||\&
+
+\stanza
+\setline{56}\linenumannotation{a}evaṃ śakrādayo devāḥ\linenumannotation{b} \edtext{buddhāś}{\Bfootnote{conj. BIRCH : \textit{siddhāś} Ms}} ca \edtext{varavarṇini}{\Bfootnote{em. : \textit{varavarṇin} Ms}} |&
+\setline{56}\linenumannotation{c}siddhāḥ \edtext{siddhiṃ}{\Bfootnote{em. BIRCH : \textit{siddhaṃ} Ms}} prakurvanti\linenumannotation{d} te yānti paramāṃ gatiṃ ||56||\&
+
+\stanza
+\setline{57}\linenumannotation{a}mānuṣāś \edtext{cāsurā}{\Bfootnote{conj. Birch : \textit{ātmikā} Ms}} ye ca\linenumannotation{b} \edtext{gandharvoragakinnarāḥ}{\Bfootnote{em. : \textit{gandharvoragakinnarā} Ms}} |&
+\setline{57}\linenumannotation{c}evaṃ \edtext{yogaṃ}{\Bfootnote{em. : \textit{yoga} Ms}} samā \edtext{sādhyā}{\Bfootnote{em. : \textit{sādhya} Ms}}\linenumannotation{d} \edtext{gacchanti}{\Bfootnote{em. : \textit{gacchantiṃ} Ms}} paramāṃ gatiṃ ||57||\&
+
+\stanza
+\setline{58}\linenumannotation{a}hiṃsārthe ca vrajet \edtext{kālaṃ}{\Bfootnote{em. : \textit{kālaṃs} Ms}}\linenumannotation{b} tena nāstikavādinā |&
+\setline{58}\linenumannotation{c}asatyanīcatākrūrāḥ\linenumannotation{d} dvijavedavinindakāḥ ||58||\&
+
+\stanza
+\setline{59}\linenumannotation{a}asevāḥ gurupāde ca\linenumannotation{b} \edtext{sarvadharmavivarjitāḥ}{\Bfootnote{em. : \textit{sarvvadharmmavivarjitā} Ms}} |&
+\setline{59}\linenumannotation{c}\edtext{ālasāḥ}{\Bfootnote{em. MISHRA: \textit{ālasau} Ms}} pīḍitā ye ca\linenumannotation{d} \edtext{kāmakrodhaprapīḍitāḥ}{\Bfootnote{em. : \textit{kāmakrodhaprapīḍitā} Ms}}  ||59||\&
+
+\stanza
+\setline{60}\linenumannotation{a}tathābhyāsavihīnāś ca\linenumannotation{b} yogataḥ \edtext{parihīyante}{\Bfootnote{em. : \textit{parihīyate} Ms}} |&
+\setline{60}\linenumannotation{c}tena muktipadaṃ yāti\linenumannotation{d} \edtext{dharmeṇānena}{\Bfootnote{em. : \textit{dharmenānena} Ms}} pārvati ||60||\&
+
+\stanza
+\setline{61}\linenumannotation{a}kecij jaganti dharmaṇi\linenumannotation{b} kecit karmāṇi \edtext{śobhane}{\Bfootnote{em. : \textit{sobhane} Ms}} |&
+\setline{61}\linenumannotation{c}kecit dhyānaṃ praśaṃsanti\linenumannotation{d} vijñānañ ca \edtext{parāḥ}{\Bfootnote{em. : \textit{paraḥ} Ms}} paraṃ ||61||\&
+
+\stanza
+\setline{62}\linenumannotation{a}dharmakarmādikaṃ ye ca\linenumannotation{b} vijñānam upadeśataḥ |&
+\setline{62}\linenumannotation{c}sādhyaṃ cānukramaṃ kṛtvā\linenumannotation{d} te yānti paramāṃ gatiṃ ||62||\&
+
+\stanza
+\setline{63}\linenumannotation{a}yaś cenaṃ śṛṇuyān nityaṃ\linenumannotation{b} kathā sarva yathā smṛtāṃ |&
+\setline{63}\linenumannotation{c}sarvapāpakṣayaṃ tasya\linenumannotation{d} brahmaṇasadanaṃ bhajet ||63||\&
+
+\stanza
+\setline{64}\linenumannotation{a}svakṛcchravaṇamātreṇa\linenumannotation{b} brahmahatyāṃ \edtext{vyapohati}{\Bfootnote{em. : \textit{vyapohatiḥ} Ms}} |&
+\setline{64}\linenumannotation{c}dine kenāśvamedhānāṃ\linenumannotation{d} yajñānāñ ca phalaṃ labhet ||64||\&
+
+\stanza
+\setline{65}\linenumannotation{a}yaḥ paṭhet pāthayed vāpi\linenumannotation{b} sarvayajñaphalaṃ labhet |&
+\setline{65}\linenumannotation{c}ataḥ puṇyataraṃ śāstraṃ\linenumannotation{d} no cātra vidyate kvacit ||65||\&
+
+\linenumberstyle{alph}
+\stanza
+\setline{6}mūlasāreti ||\&
+
+\stanza
+\setline{7}iti \edtext{gorakṣayogaśāstrasamāptaṃ}{\Bfootnote{em. : \textit{gorakṣajogaśāstrasamāptaṃ} Ms}} ||\&
