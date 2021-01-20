@@ -1,0 +1,95 @@
+% TODO: überprüfe author <---> editor felder
+
+@book{sukthankar1940,
+  title={The Mahabharata: For the First Time Critically Edited},
+  editor={Sukthankar},
+  url={http://books.google.de/books?id=5Bp2oAEACAAJ},
+  year={1940},
+  publisher={Bhandarkar Oriental Research Institute},
+}
+
+@Misc{critEdMbh,
+  note={\cite{sukthankar1940}},
+  shorthand={K},
+  keywords={critEd},
+}
+
+@book{schwarz1966nala,
+  title={Die Nala-Legende},
+  author={Schwarz, F.F.},
+  url={http://books.google.de/books?id=rAzHHAAACAAJ},
+  year={1966},
+  publisher={Gerold und Co Wien},
+}
+
+@Misc{schwarzEd,
+  note={\cite{schwarz1966nala}},
+  shorthand={F},
+  keywords={critEd},
+}
+
+@book{sukthankar1944,
+  title={Volume I. Critical studies in the Mahābhārata},
+  editor={Sukthankar, V.S. and others},
+  url={http://gretil.sub.uni-goettingen.de/gretil_elib/Suk9441__Sukthankar_MemorialEd_1_CritStud_Mbh_1944.pdf},
+  year=1944,
+  publisher={Bhandarkar Oriental Research Institute},
+}
+
+@book{bombay1799,
+  title={Bombay Edition of Mahābhārata Book 3 and 4 Vanaparvan and Virāṭāparvan},
+  editor={Unbekannt},
+  url={http://asi.nic.in/asi_books/8996.pdf},
+  year={1901},
+  publisher={Government of India, Archaeological Survey of India, Central Archaeological Library},
+}
+
+@Misc{bombayEd,
+  note={\cite{bombay1799}},
+  shorthand={N},
+  keywords={critEd},
+}
+
+@book{sastrisouthernrecension,
+  title={The Mahābhārata (Southern Recension)},
+  editor={Vidyasagara P. P. S. Sastri},
+  url={http://www.dvaipayana.net/books/ppssastri-mbh/ppssastri-aranyaparva-part1},
+  year={1933},
+  publisher={V Ramadeva Shastrulu and Sons},
+}
+
+@Misc{sastriEd,
+  note={\cite{sastrisouthernrecension}},
+  shorthand={S2},
+  keywords={critEd},
+}
+
+@book{kumbhakonamedition,
+  title={Srimanmahabharatam A New Edition Mainly Based on The South Indian Texts},
+  editor={T.R. Krishnacharya and T.R. Vyasacharya},
+  url={http://asi.nic.in/asi_books/9004.pdf},
+  year={1908},
+  publisher={Javaji Dadaji's "Nirnaya-sagar" Press},
+}
+
+@Misc{kumbEd,
+  note={\cite{kumbhakonamedition}},
+  shorthand={S1},
+  keywords={critEd},
+}
+
+@book{onlinesuedindische2013,
+  title={A Sarit Edition of the Mahābhārata based on the Southern recension},
+  editor={Shrinivasa Varakhedi},
+  url={https://github.com/sarit/SARIT-corpus/blob/master/mahabharata-devanagari.xml?raw=true},
+  year={2013},
+  publisher={Rashtriya Sanskrit Vidyapeetha},
+}
+
+@Misc{onlineEd,
+  note={\cite{onlinesuedindische2013}},
+  shorthand={S3},
+  keywords={critEd},
+}
+
+

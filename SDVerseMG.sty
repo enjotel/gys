@@ -1,0 +1,94 @@
+\newcount\verseno
+\newcount\padano
+\newcount\choice
+%Set the counters to 1 to begin with 
+\verseno=1
+\padano=1
+\choice=1
+%
+%A verse can have 16 pādas
+ \def\sthana{\ifnum\padano=1 {\the\verseno a}%
+                       \else \ifnum\padano=2 {\the\verseno b}%
+                       \else \ifnum\padano=3 {\the\verseno c}%
+                       \else \ifnum\padano=4 {\the\verseno d}%
+                       \else \ifnum\padano=5 {\the\verseno e}%
+                       \else \ifnum\padano=6 {\the\verseno f}%
+                       \else \ifnum\padano=7 {\the\verseno g}%
+                       \else \ifnum\padano=8 {\the\verseno h}%
+                       \else \ifnum\padano=9 {\the\verseno i}%
+                       \else \ifnum\padano=10 {\the\verseno j}%
+                       \else \ifnum\padano=11 {\the\verseno k}%
+                       \else \ifnum\padano=12 {\the\verseno l}%
+                       \else \ifnum\padano=13 {\the\verseno m}%
+                       \else \ifnum\padano=14 {\the\verseno n}%
+                       \else \ifnum\padano=15 {\the\verseno o}%
+                       \else \ifnum\padano=16 {\the\verseno p}%
+                       \fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi}
+%
+%These are the markup commands                       
+\def\p{\vstrut\advance\padano by1\ifodd\padano\else\par\fi
+}% a single pāda
+\def\v{\vstrut\ifodd\choice\chandas\fi\global\advance\verseno by1 \padano=1}%marks end of verse
+%
+%
+\def\chandas{\\\\}
+ %\ \textrm{\Devanagari{।।\thinspace \the\verseno\thinspace ।।}
+ %
+\makeatletter
+\newcommand\lfootfmt[3]{\normal@pars \rightskip=0pt \leftskip=0pt\parindent=0pt \parfillskip=0pt plus 1fil{#3}\penalty-20}
+\makeatother
+%
+\def\mynewrule{\kern-8pt 
+              \hrule width.245\textwidth height0.5pt depth0.0pt\kern 3pt}   
+%
+\let\Afootnoterule=\mynewrule
+\let\Bfootnoterule=\mynewrule 
+\let\Cfootnoterule=\mynewrule
+\let\Dfootnoterule=\mynewrule
+\let\Efootnoterule=\mynewrule
+%\let\Gfootnoterule=\mynewrule
+%
+\footparagraph{A}
+\footparagraph{B}
+\footparagraph{C}
+\footparagraph{D}
+\footparagraph{E}
+%\footparagraph{G}
+%
+\let\Afootfmt=\lfootfmt
+\let\Bfootfmt=\lfootfmt
+\let\Cfootfmt=\lfootfmt
+\let\Dfootfmt=\lfootfmt
+\let\Efootfmt=\lfootfmt
+%\let\Gfootfmt=\tfootfmt
+%
+%
+\def\vstrut{\hbox{\vrule height4pt depth3pt width0pt}}
+\def\strut{\hbox{\vrule height2pt depth2pt width0pt}}
+%
+\def\locspace{\hskip.8em plus .2em minus .2em}
+\def\loc#1{\textbf{#1}\hskip.8em plus .2em minus .2em}         % lemma location
+%\def\loc#1{\textrm{#1}\hskip.8em plus .2em minus .2em}         % lemma location
+\def\incipitloc#1{\textrm{Incipit #1}\hskip.8em plus .2em minus .2em}         % lemma location
+\def\explicitloc#1{\textrm{Explicit #1}\hskip.8em plus .2em minus .2em}         % lemma location
+%Footnotes
+\def\codices#1{\edtext{}{\Bfootnote{\strut #1}}}
+\def\var#1{\edtext{}{\Cfootnote{\strut\loc{\sthana}#1\strut}}}
+\def\novar#1{\edtext{}{\Cfootnote{#1}}}
+\def\testim#1{\edtext{}{\Afootnote{\strut\loc{\sthana}#1\strut}}}
+\def\notestim#1{\edtext{}{\Afootnote{#1}}}
+\def\metre#1{\edtext{}{\Dfootnote{\strut\loc{\sthana}#1\strut}}}
+\def\com#1{\edtext{}{\Efootnote{\strut\loc{\sthana}#1\strut}}}
+\def\nocom#1{\edtext{}{\Efootnote{\rm#1}}}
+%
+%
+\def\multivar#1{\edtext{}{\Cfootnote{\strut#1\strut}}}
+\def\nomultivar#1{\edtext{}{\Cfootnote{#1}}}
+\def\multitestim#1{\edtext{}{\Afootnote{\strut#1\strut}}} 
+\def\nomultitestim#1{\edtext{}{\Afootnote{#1}}}
+\def\multimetre#1{\edtext{}{\Dfootnote{\strut#1\strut}}}
+\def\nomultimetre#1{\edtext{}{\Dfootnote{#1}}}
+\def\multicom#1{\edtext{}{\Efootnote{\strut#1\strut}}}
+\def\nomulticom#1{\edtext{}{\Efootnote{#1}}}
+%
+%  
