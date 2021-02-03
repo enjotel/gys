@@ -1,19 +1,19 @@
-[0] Config.pm:327> INFO - This is Biber 2.2
-[0] Config.pm:330> INFO - Logfile is 'mula.blg'
-[41] biber:286> INFO - === Mi Jan 20, 2021, 09:28:54
-[42] Biber.pm:334> INFO - Reading 'mula.bcf'
-[157] Biber.pm:677> INFO - Found 92 citekeys in bib section 0
-[176] Biber.pm:3054> INFO - Processing section 0
-[190] Biber.pm:3193> INFO - Looking for bibtex format file 'mula.bib' for section 0
-[211] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
-[219] bibtex.pm:935> INFO - Found BibTeX data source 'mula.bib'
-[1229] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1229] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1229] Biber.pm:2931> INFO - Sorting list 'shorthand' of type 'list' with scheme 'shorthand' and locale 'de-DE'
-[1229] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
-[2225] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2225] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2225] Biber.pm:2931> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'de-DE'
-[2225] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
-[2510] bbl.pm:505> INFO - Writing 'mula.bbl' with encoding 'UTF-8'
-[2518] bbl.pm:596> INFO - Output to mula.bbl
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'mula.blg'
+[114] biber:340> INFO - === So Jan 31, 2021, 11:51:51
+[132] Biber.pm:415> INFO - Reading 'mula.bcf'
+[302] Biber.pm:952> INFO - Found 92 citekeys in bib section 0
+[338] Biber.pm:4340> INFO - Processing section 0
+[353] Biber.pm:4531> INFO - Looking for bibtex format file 'mula.bib' for section 0
+[358] bibtex.pm:1689> INFO - LaTeX decoding ...
+[490] bibtex.pm:1494> INFO - Found BibTeX data source 'mula.bib'
+[1069] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1070] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1070] Biber.pm:4168> INFO - Sorting list 'shorthand:shorthand/global//global/global' of type 'list' with template 'shorthand' and locale 'de-DE'
+[1070] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
+[1218] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1218] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1219] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[1219] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
+[1351] bbl.pm:654> INFO - Writing 'mula.bbl' with encoding 'UTF-8'
+[1397] bbl.pm:757> INFO - Output to mula.bbl
