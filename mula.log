@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  10 FEB 2021 12:34
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  11 FEB 2021 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5906,6 +5906,9 @@ LaTeX Info: Redefining \ttfamily on input line 1239.
 LaTeX Info: Redefining \rmfamily on input line 1251.
 LaTeX Info: Redefining \sffamily on input line 1251.
 LaTeX Info: Redefining \ttfamily on input line 1251.
+LaTeX Info: Redefining \rmfamily on input line 1251.
+LaTeX Info: Redefining \sffamily on input line 1251.
+LaTeX Info: Redefining \ttfamily on input line 1251.
 LaTeX Info: Redefining \rmfamily on input line 1252.
 LaTeX Info: Redefining \sffamily on input line 1252.
 LaTeX Info: Redefining \ttfamily on input line 1252.
@@ -6425,102 +6428,102 @@ tine_RBI.otf
 [66
 
 ] [67] [68] [69] [70]
-Underfull \hbox (badness 10000) in paragraph at lines 1827--1829
+Underfull \hbox (badness 10000) in paragraph at lines 1825--1827
 
  []
 
 [71] [72]
-Underfull \hbox (badness 10000) in paragraph at lines 1868--1872
+Underfull \hbox (badness 10000) in paragraph at lines 1866--1870
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1873--1877
+Underfull \hbox (badness 10000) in paragraph at lines 1871--1875
 
  []
 
 [73] [74]
-Underfull \hbox (badness 10000) in paragraph at lines 1905--1912
+Underfull \hbox (badness 10000) in paragraph at lines 1903--1910
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1905--1912
+Underfull \hbox (badness 10000) in paragraph at lines 1903--1910
 
  []
 
 [75]
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 LaTeX Font Info:    Font shape `TU/LinLibertine(5)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1921.
+(Font)              scaled to size 12.0pt on input line 1919.
 Requested font "[LinLibertine_M.otf]/OT:script=latn;language=dflt;" at 12.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/libertine/LinLiber
 tine_M.otf
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 [76
 
 ]
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 
 Package biblatex Warning: No driver for entry type 'codex'.
-(biblatex)                Using fallback driver on input line 1921.
+(biblatex)                Using fallback driver on input line 1919.
 
 [77] [78] [79]
 The property list \polyglossia@langsetup contains the pairs (without outer
