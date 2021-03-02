@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  24 FEB 2021 11:24
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  25 FEB 2021 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6149,12 +6149,7 @@ LaTeX Info: Redefining \ttfamily on input line 1464.
 LaTeX Info: Redefining \rmfamily on input line 1464.
 LaTeX Info: Redefining \sffamily on input line 1464.
 LaTeX Info: Redefining \ttfamily on input line 1464.
-
-reledmac reminder: 
- The number of the footnotes in this section has changed since the last run.
- You will need to run LaTeX two more times before the footnote placement
- and line numbering in this section are correct.
-Section 2 (./mula.2)
+ Section 2 (./mula.2)
 LaTeX Info: Redefining \rmfamily on input line 1491.
 LaTeX Info: Redefining \sffamily on input line 1491.
 LaTeX Info: Redefining \ttfamily on input line 1491.
@@ -6176,7 +6171,8 @@ LaTeX Info: Redefining \ttfamily on input line 1496.
 LaTeX Info: Redefining \rmfamily on input line 1496.
 LaTeX Info: Redefining \sffamily on input line 1496.
 LaTeX Info: Redefining \ttfamily on input line 1496.
- Section 3 (./mula.3) Section 4 (./mula.4)
+ Section 3
+(./mula.3) Section 4 (./mula.4)
 LaTeX Info: Redefining \rmfamily on input line 1522.
 LaTeX Info: Redefining \sffamily on input line 1522.
 LaTeX Info: Redefining \ttfamily on input line 1522.
@@ -6186,8 +6182,7 @@ LaTeX Info: Redefining \ttfamily on input line 1523.
 LaTeX Info: Redefining \rmfamily on input line 1523.
 LaTeX Info: Redefining \sffamily on input line 1523.
 LaTeX Info: Redefining \ttfamily on input line 1523.
- Section 5
-(./mula.5)
+ Section 5 (./mula.5)
 LaTeX Info: Redefining \rmfamily on input line 1536.
 LaTeX Info: Redefining \sffamily on input line 1536.
 LaTeX Info: Redefining \ttfamily on input line 1536.
