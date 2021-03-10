@@ -43,20 +43,20 @@
       \field{shorthand}{GYŚ}
       \keyw{critEd}
     \endentry
+    \entry{puras}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{note}{Puraścaryārṇavaḥ: \cite{purascaryarnava1901}}
+      \field{shorthand}{PA}
+      \keyw{critEd}
+    \endentry
     \entry{tosini}{misc}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labeldatesource}{nodate}
       \field{note}{Prāṇatoṣinī: \cite{ramatosana}}
       \field{shorthand}{PT}
-      \keyw{critEd}
-    \endentry
-    \entry{puras}{misc}{}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labeldatesource}{nodate}
-      \field{note}{Puraścaryārṇavaḥ: \cite{purascaryarnava1901}}
-      \field{shorthand}{PU}
       \keyw{critEd}
     \endentry
     \entry{sgpaddhati}{misc}{}
@@ -138,7 +138,7 @@
       \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
       \field{labeldatesource}{nodate}
       \field{note}{Puraścaryārṇavaḥ: \cite{purascaryarnava1901}}
-      \field{shorthand}{PU}
+      \field{shorthand}{PA}
       \keyw{critEd}
     \endentry
     \entry{varaha}{misc}{}
