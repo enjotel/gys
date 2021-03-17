@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  10 MAR 2021 11:58
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.28)  17 MAR 2021 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6204,6 +6204,9 @@ LaTeX Info: Redefining \ttfamily on input line 1542.
 LaTeX Info: Redefining \rmfamily on input line 1542.
 LaTeX Info: Redefining \sffamily on input line 1542.
 LaTeX Info: Redefining \ttfamily on input line 1542.
+LaTeX Info: Redefining \rmfamily on input line 1550.
+LaTeX Info: Redefining \sffamily on input line 1550.
+LaTeX Info: Redefining \ttfamily on input line 1550.
 LaTeX Info: Redefining \rmfamily on input line 1551.
 LaTeX Info: Redefining \sffamily on input line 1551.
 LaTeX Info: Redefining \ttfamily on input line 1551.
@@ -6223,6 +6226,9 @@ LaTeX Info: Redefining \ttfamily on input line 1557.
 LaTeX Info: Redefining \rmfamily on input line 1558.
 LaTeX Info: Redefining \sffamily on input line 1558.
 LaTeX Info: Redefining \ttfamily on input line 1558.
+LaTeX Info: Redefining \rmfamily on input line 1570.
+LaTeX Info: Redefining \sffamily on input line 1570.
+LaTeX Info: Redefining \ttfamily on input line 1570.
 LaTeX Info: Redefining \rmfamily on input line 1579.
 LaTeX Info: Redefining \sffamily on input line 1579.
 LaTeX Info: Redefining \ttfamily on input line 1579.
@@ -6347,19 +6353,19 @@ LaTeX Info: Redefining \ttfamily on input line 1690.
 LaTeX Info: Redefining \rmfamily on input line 1691.
 LaTeX Info: Redefining \sffamily on input line 1691.
 LaTeX Info: Redefining \ttfamily on input line 1691.
-LaTeX Info: Redefining \rmfamily on input line 1694.
-LaTeX Info: Redefining \sffamily on input line 1694.
-LaTeX Info: Redefining \ttfamily on input line 1694.
-LaTeX Info: Redefining \rmfamily on input line 1694.
-LaTeX Info: Redefining \sffamily on input line 1694.
-LaTeX Info: Redefining \ttfamily on input line 1694.
-LaTeX Info: Redefining \rmfamily on input line 1695.
-LaTeX Info: Redefining \sffamily on input line 1695.
-LaTeX Info: Redefining \ttfamily on input line 1695.
-LaTeX Info: Redefining \rmfamily on input line 1695.
-LaTeX Info: Redefining \sffamily on input line 1695.
-LaTeX Info: Redefining \ttfamily on input line 1695.
  [64]
+LaTeX Info: Redefining \rmfamily on input line 1694.
+LaTeX Info: Redefining \sffamily on input line 1694.
+LaTeX Info: Redefining \ttfamily on input line 1694.
+LaTeX Info: Redefining \rmfamily on input line 1694.
+LaTeX Info: Redefining \sffamily on input line 1694.
+LaTeX Info: Redefining \ttfamily on input line 1694.
+LaTeX Info: Redefining \rmfamily on input line 1695.
+LaTeX Info: Redefining \sffamily on input line 1695.
+LaTeX Info: Redefining \ttfamily on input line 1695.
+LaTeX Info: Redefining \rmfamily on input line 1695.
+LaTeX Info: Redefining \sffamily on input line 1695.
+LaTeX Info: Redefining \ttfamily on input line 1695.
 LaTeX Info: Redefining \rmfamily on input line 1698.
 LaTeX Info: Redefining \sffamily on input line 1698.
 LaTeX Info: Redefining \ttfamily on input line 1698.
@@ -6594,10 +6600,10 @@ Package logreq Info: Writing requests to 'mula.run.xml'.
 ### semi simple group (level 1) entered at line 1530 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 47887 strings out of 477220
- 983304 string characters out of 5830449
- 1887198 words of memory out of 5000000
- 66754 multiletter control sequences out of 15000+600000
+ 47886 strings out of 477220
+ 983290 string characters out of 5830449
+ 1887193 words of memory out of 5000000
+ 66753 multiletter control sequences out of 15000+600000
  411020 words of font info for 141 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  95i,12n,138p,4079b,5561s stack positions out of 5000i,500n,10000p,200000b,80000s

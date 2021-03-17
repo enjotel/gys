@@ -170,7 +170,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{36.}{71}{section*.57}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{37.}{72}{section*.58}%
+\contentsline {paragraph}{37.}{71}{section*.58}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{38.}{72}{section*.59}%
 \defcounter {refsection}{0}\relax 
@@ -190,7 +190,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{46.}{72}{section*.67}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{47.}{73}{section*.68}%
+\contentsline {paragraph}{47.}{72}{section*.68}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{48.}{73}{section*.69}%
 \defcounter {refsection}{0}\relax 
@@ -220,7 +220,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{61.}{74}{section*.82}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{62.}{75}{section*.83}%
+\contentsline {paragraph}{62.}{74}{section*.83}%
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{63.}{75}{section*.84}%
 \defcounter {refsection}{0}\relax 

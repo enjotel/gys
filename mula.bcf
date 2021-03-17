@@ -2517,22 +2517,21 @@
     <bcf:citekey order="173">varahaupanishad</bcf:citekey>
     <bcf:citekey order="174">peterson1888</bcf:citekey>
     <bcf:citekey order="175">tantraloka</bcf:citekey>
-    <bcf:citekey order="176">petersburger</bcf:citekey>
+    <bcf:citekey order="176">ssp</bcf:citekey>
     <bcf:citekey order="177">ssp</bcf:citekey>
-    <bcf:citekey order="178">ssp</bcf:citekey>
-    <bcf:citekey order="179">kawamura1991</bcf:citekey>
-    <bcf:citekey order="180">yogapowers2017</bcf:citekey>
-    <bcf:citekey order="181">birch2014</bcf:citekey>
+    <bcf:citekey order="178">kawamura1991</bcf:citekey>
+    <bcf:citekey order="179">yogapowers2017</bcf:citekey>
+    <bcf:citekey order="180">birch2014</bcf:citekey>
+    <bcf:citekey order="181">nishvasa2015</bcf:citekey>
     <bcf:citekey order="182">nishvasa2015</bcf:citekey>
-    <bcf:citekey order="183">nishvasa2015</bcf:citekey>
-    <bcf:citekey order="184">asiddhi</bcf:citekey>
-    <bcf:citekey order="185">dhyanabindu</bcf:citekey>
-    <bcf:citekey order="186">mscodex</bcf:citekey>
-    <bcf:citekey order="187">purascaryarnava1901</bcf:citekey>
-    <bcf:citekey order="188">ramatosana</bcf:citekey>
-    <bcf:citekey order="189">peterson1888</bcf:citekey>
-    <bcf:citekey order="190">mallinson2007</bcf:citekey>
-    <bcf:citekey order="191">varahaupanishad</bcf:citekey>
+    <bcf:citekey order="183">asiddhi</bcf:citekey>
+    <bcf:citekey order="184">dhyanabindu</bcf:citekey>
+    <bcf:citekey order="185">mscodex</bcf:citekey>
+    <bcf:citekey order="186">purascaryarnava1901</bcf:citekey>
+    <bcf:citekey order="187">ramatosana</bcf:citekey>
+    <bcf:citekey order="188">peterson1888</bcf:citekey>
+    <bcf:citekey order="189">mallinson2007</bcf:citekey>
+    <bcf:citekey order="190">varahaupanishad</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
