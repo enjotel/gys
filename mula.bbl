@@ -1094,37 +1094,6 @@
       \field{year}{1954}
       \keyw{seclit}
     \endentry
-    \entry{kawamura1991}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=38200f5ebb418ab72ff809d07f5eeb95}{%
-           family={Kawamura},
-           familyi={K\bibinitperiod},
-           given={L.\bibnamedelimi S.},
-           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {State University of New York Press}%
-      }
-      \strng{namehash}{38200f5ebb418ab72ff809d07f5eeb95}
-      \strng{fullhash}{38200f5ebb418ab72ff809d07f5eeb95}
-      \strng{bibnamehash}{38200f5ebb418ab72ff809d07f5eeb95}
-      \strng{authorbibnamehash}{38200f5ebb418ab72ff809d07f5eeb95}
-      \strng{authornamehash}{38200f5ebb418ab72ff809d07f5eeb95}
-      \strng{authorfullhash}{38200f5ebb418ab72ff809d07f5eeb95}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Madhyāmika and Yogācāra: A Study of Mahāyana Philosophies}
-      \field{year}{1991}
-      \keyw{seclit}
-    \endentry
     \entry{kinsley1997}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c61b8c530ff51496363a6dea4a83dc2f}{%
